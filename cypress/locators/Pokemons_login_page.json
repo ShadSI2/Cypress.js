@@ -1,0 +1,11 @@
+{
+  "title": ".style_1_popup_white_title",
+  "vk_button": "a[href=\"https://id.vk.com/auth?uuid=GBFBV2654u2jhtrRTJS45jw6435454yyt3y4d2354&app_id=51935122&response_type=silent_token&redirect_uri=https://api.pokemonbattle.ru/v2/technical_routes/callback_vk\"]",
+  "yandex_button": "a[href=\"https://oauth.yandex.ru/authorize?response_type=code&client_id=b571e48acdb74d569e1a2284114ced87&redirect_uri=https://api.pokemonbattle.ru/v2/technical_routes/callback_yandex\"]",
+  "email": "#k_email",
+  "password": "#k_password",
+  "enter_button": ".MuiButton-root",
+  "fogot_pass_btn": ".style_1_popup_white_link_left",
+  "version_site": ".k_footer_container_version",
+  "footer": ".footer_studio"
+}

@@ -1,0 +1,5 @@
+{
+  "trainer_name": ".single_page_body_content_title_icons_name",
+  "avatar_btn": "[data-qa=\"shop\"]",
+  "text_avatar_btn": "[data-qa=\"shop\"] > .k_trainer_in_button_wrapper > .k_trainer_in_button_title_no_desc"
+}

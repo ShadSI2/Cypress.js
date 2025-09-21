@@ -1,0 +1,5 @@
+{
+  "title": ".payment_form_3ds_title",
+  "sms_verification": ".style_1_base_input",
+  "sms_verification_btn": ".style_1_base_button_payment_body > .style_1_base_button_payment"
+}
